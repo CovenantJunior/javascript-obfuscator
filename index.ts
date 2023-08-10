@@ -1,4 +1,5 @@
 "use strict";
+
 import { TDictionary } from './src/types/TDictionary';
 import { TInputOptions } from './src/types/options/TInputOptions';
 import { TObfuscationResultsObject } from './src/types/TObfuscationResultsObject';
